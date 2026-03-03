@@ -1,0 +1,2 @@
+# autopsy--autonomous-risk-adaptive-trading-system--arts-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Risk-Adaptive Trading System (ARTS)' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: N/ASKILLS: [system_design, failure_analysis, critical_thinking]METRICS:Coordination: 1Technical Complexity: 8Efficiency: 1Clarity: 1SUGGEST_UI: TrueORIGINAL ERROR LOGS:DeepSeek/AI model did no
